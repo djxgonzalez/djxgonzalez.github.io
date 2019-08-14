@@ -4,5 +4,5 @@ title: Resources
 permalink: /resources/
 ---
 
-
-## Resources
+## R
+**Intro to Spatial Analysis in R**
