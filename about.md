@@ -4,15 +4,18 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+## Bio
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+I'm a doctoral candidate in the Emmett Interdisciplinary Program in Environment and Resources specializing in environmental health sciences. I study how pollution from extractive industries affects reproductive health and contributes to health disparities. I apply interdisciplinary methods from epidemiology, econometrics, and decision science, and conduct field work and population-level studies in California and Peru. My work is supported by the Stanford Graduate Fellowship, the DARE Doctoral Fellowship, and the Ford Foundation Predoctoral Fellowship.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+## Education
+- MS, Stanford University, Epidemiology and Clinical Research, Global Health Concentration (2018)
+- MESc, Yale University, Environmental Science, Global Health Concentration (2015)
+- BS, University of California at Davis, Evolution and Ecology, with Honors (2011)
 
-
-[jekyll-organization]: https://github.com/jekyll
+## Honors & Awards
+- Diversifying Academia, Recruiting Excellence (DARE) Doctoral Fellowship, Stanford University (2019)
+- Ford Foundation Predoctoral Fellowship, The National Academies of Sciences, Engineering, and Medicine (2016)
+- Stanford Graduate Fellowship in Science & Engineering, Stanford University (2016)
+- Enhancing Diversity in Graduate Education (EDGE) Doctoral Fellowship, Stanford University (2016)
+- Fox International Fellowship, Yale University and El Colegio de México (2015)
