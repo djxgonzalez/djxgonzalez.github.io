@@ -1,8 +1,11 @@
 ---
 layout: page
-title: Projects
-permalink: /projects/
+title: Resources
+permalink: /resources/
 ---
 
-### R Resources
+### Presentations
+- SPER 2019 (poster, will post soon)
+
+### R
 - [Intro to Spatial Analysis in R](https://github.com/djxgonzalez/spatial-analysis-r), 5/2019 - A brief introductory lesson on using the 'sf' package in R
