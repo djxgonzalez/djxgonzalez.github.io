@@ -4,4 +4,4 @@ title: CV
 permalink: /cv/
 ---
 
-[Curriculum vitae](https://djxgonzalez.github.io/cv.pdf), updated June 2019
+[Curriculum vitae](https://djxgonzalez.github.io/cv.pdf){:target="_blank"}, updated June 2019
