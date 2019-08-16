@@ -17,7 +17,7 @@ david.gonzalez@stanford.edu
 **PhD** Stanford University, School of Earth, Energy, and Environmental Sciences
 Emmett Interdisciplinary Program in Environment and Resources, *2021*
 
-**MS** Stanford University, School of Medicine Epidemiology and Clinical Research,Global Health Concentration, 2018
+**MS** Stanford University, School of Medicine Epidemiology and Clinical Research, Global Health Concentration, 2018
 Thesis: Oil and gas drilling and risk of preterm birth in the San Joaquin Valley, California
 
 **MESc** Yale University, School of Forestry and Environmental Studies
