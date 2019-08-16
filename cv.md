@@ -4,23 +4,28 @@ title: CV
 permalink: /cv/
 ---
 
-Curriculum Vita
 
-# [David J.X. Gonzalez](https://djxgonzalez.github.io/cv.pdf){:target="_blank"}, updated June 2019
+# [David J.X. Gonzalez](https://djxgonzalez.github.io/cv.pdf){:target="_blank"}
 
-PhD Candidate, Emmett Interdisciplinary Program in Environment and Resources, Stanford University
+PhD Candidate, Emmett Interdisciplinary Program in Environment and Resources
+Stanford University
 473 Via Ortega, Stanford, CA 94305
 david.gonzalez@stanford.edu
 
 ### Education
 
-**PhD** Stanford University, School of Earth, Energy, and Environmental Sciences Emmett Interdisciplinary Program in Environment and Resources, *2021*
+**PhD** Stanford University, School of Earth, Energy, and Environmental Sciences
+Emmett Interdisciplinary Program in Environment and Resources, *2021*
 
-**MS** Stanford University, School of Medicine Epidemiology and Clinical Research,GlobalHealthConcentration, 2018Thesis: Oil and gas drilling and risk of preterm birth in the San Joaquin Valley, California
+**MS** Stanford University, School of Medicine Epidemiology and Clinical Research,Global Health Concentration, 2018
+Thesis: Oil and gas drilling and risk of preterm birth in the San Joaquin Valley, California
 
-**MESc** Yale University, School of Forestry and Environmental StudiesEnvironmentalScience, GlobalHealth Concentration,2015Thesis: Mercury exposure and risk among women of childbearing age in the Peruvian Amazon
+**MESc** Yale University, School of Forestry and Environmental Studies
+Environmental Science, Global Health Concentration, 2015
+Thesis: Mercury exposure and risk among women of childbearing age in the Peruvian Amazon
 
-**BS** University of California at Davis, College of Biological Sciences Evolution and Ecology(Honors), 2011
+**BS** University of California at Davis, College of Biological Sciences
+Evolution and Ecology (Honors), 2011
 Thesis: Effects of global change on alpine microbial communities and nitrogen cycling
 
 ### Research Interests
