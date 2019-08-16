@@ -6,7 +6,7 @@ permalink: /resources/
 
 ### Presentations
 
-**[ISEE poster](resources/2019.08_isee2019.html), 8/2019** - I'll be presenting a poster at to the annual meeting of the International Society for Environmental Epidemiology (ISEE) in Utrecht this month. My poster and supplementary materials are posted here.
+**[ISEE poster](resources/2019.08_isee2019.html){:target="_blank"}, 8/2019** - I'll be presenting a poster at to the annual meeting of the International Society for Environmental Epidemiology (ISEE) in Utrecht this month. My poster and supplementary materials are posted here.
 
 ### R
 
