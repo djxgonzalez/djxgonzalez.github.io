@@ -4,11 +4,11 @@ title: CV
 permalink: /cv/
 ---
 
-# [David J.X. Gonzalez](https://djxgonzalez.github.io/cv.pdf){:target="_blank"}
+# David J.X. Gonzalez
 
 PhD Candidate, Emmett Interdisciplinary Program in Environment and Resources
-Stanford University
-473 Via Ortega, Stanford, CA 94305
+<br />Stanford University
+<br />473 Via Ortega, Stanford, CA 94305
 
 ### Education
 
