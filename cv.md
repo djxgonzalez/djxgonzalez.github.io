@@ -32,4 +32,4 @@ Thesis: Effects of global change on alpine microbial communities and nitrogen cy
 
 environmental health sciences; environmental epidemiology; social determinants of health; perinatal health; environmental science; health disparities; environmental justice; global health
 
-[Full curriculum vitae](https://djxgonzalez.github.io/cv.pdf){:target="_blank"}
+#### [Full CV](https://djxgonzalez.github.io/cv.pdf){:target="_blank"}
