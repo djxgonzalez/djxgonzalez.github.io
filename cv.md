@@ -4,7 +4,7 @@ title: CV
 permalink: /cv/
 ---
 
-# David J.X. Gonzalez
+## David J.X. Gonzalez
 
 PhD Candidate, Emmett Interdisciplinary Program in Environment and Resources
 <br />Stanford University
