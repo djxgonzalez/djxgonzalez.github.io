@@ -14,4 +14,4 @@ I'm a doctoral candidate in the Emmett Interdisciplinary Program in Environment 
 
 ### ISEE 2019
 
-I'm traveling to the annual meeting of the International Society for Environmental Epidemiology in Utrecht this month. My poster and supplementary materials are [here](resources/2019.08_isee2019.html){:target="_blank"}.
+I'm traveling to the annual meeting of the International Society for Environmental Epidemiology in Utrecht this month. My poster and supplementary materials are **[here](resources/2019.08_isee2019.html){:target="_blank"}**.
