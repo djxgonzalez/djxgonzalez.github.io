@@ -31,7 +31,7 @@ Oil and gas drilling and risk of spontaneous preterm birth in the San Joaquin Va
 
 **[How Scientific Activism Helped Bring Flint’s Lead Crisis to Light](http://www.activistlab.org/2016/02/how-scientific-activism-helped-bring-flints-lead-crisis-to-light/){:target="_blank"}**, *ActivistLab*, 2/2016
 
-**[Fear in the time of Ebola](https://yaledailynews.com/blog/2015/12/09/gonzalez-roth-fear-in-the-time-of-ebola/){:target="_blank"}**, David J.X. Gonzalez and Emma Roth. *Yale Daily News*, 12/2015
+**[Fear in the time of Ebola](https://yaledailynews.com/blog/2015/12/09/gonzalez-roth-fear-in-the-time-of-ebola/){:target="_blank"}**, David J.X. Gonzalez and Emma Roth, *Yale Daily News*, 12/2015
 
 **[Fear, Politics, and Ebola: How Quarantines Hurt the Fight Against Ebola and Violate the Constitution](https://law.yale.edu/system/files/area/center/ghjp/documents/ghjp_ebola_quarantines.pdf){:target="_blank"}**, report from the American Civil Liberties Union and the Yale Global Health Justice Program, 12/2015
 
