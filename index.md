@@ -12,6 +12,6 @@ I'm a doctoral candidate in the Emmett Interdisciplinary Program in Environment 
 
 ### ISEE 2019
 
-I'm traveling to the annual meeting of the International Society for Environmental Epidemiology in Utrecht, the Netherlands, this month. My poster and supplementary materials are **[here](resources/2019.08_isee2019.html){:target="_blank"}**.
+I'm traveling to the annual meeting of the International Society for Environmental Epidemiology in Utrecht, the Netherlands, this month (August 2019). My poster and supplementary materials will be posted here soon.
 
 [Academia.edu](http://stanford.academia.edu/DavidGonzalez){:target="_blank"} • [Google Scholar](https://scholar.google.com/citations?user=I_msswMAAAAJ&hl=en){:target="_blank"} • [ResearchGate](https://www.researchgate.net/profile/David_Gonzalez38){:target="_blank"} • [LinkedIn](https://www.linkedin.com/in/davidjxgonzalez){:target="_blank"}
