@@ -14,7 +14,7 @@ I'm presenting a poster at to the annual meeting of the International Society fo
 
 ### Bio
 
-![profile-photo](https://djxgonzalez.github.io/images/profile_thumb.png){:height="200px" width="290px" .align-center}
+![profile-photo](https://djxgonzalez.github.io/images/profile_thumb.jpg){:height="200px" width="290px" .align-center}
 
 I'm a doctoral candidate in the Emmett Interdisciplinary Program in Environment and Resources at Stanford University. I study environmental epidemiology with a focus on how pollution from extractive industries affects reproductive health and contributes to health disparities. I apply interdisciplinary methods from epidemiology, econometrics, and decision science, and conduct field work and population-level studies in California and Peru. I received a MS in epidemiology from the Stanford School of Medicine and a MESc in environmental science from the Yale School of Forestry and Environmental Studies. My work is supported by the Stanford Graduate Fellowship, the DARE Doctoral Fellowship, and the Ford Foundation Predoctoral Fellowship.
 
