@@ -8,10 +8,14 @@ layout: page
 title: About
 ---
 
-I'm a doctoral candidate in the Emmett Interdisciplinary Program in Environment and Resources at Stanford University. I study environmental epidemiology with a focus on how pollution from extractive industries affects reproductive health and contributes to health disparities. I apply interdisciplinary methods from epidemiology, econometrics, and decision science, and conduct field work and population-level studies in California and Peru. I received a MS in epidemiology from the Stanford School of Medicine and a MESc in environmental science from the Yale School of Forestry and Environmental Studies. My work is supported by the Stanford Graduate Fellowship, the DARE Doctoral Fellowship, and the Ford Foundation Predoctoral Fellowship.
-
 ### ISEE 2019
 
-I'm traveling to the annual meeting of the International Society for Environmental Epidemiology in Utrecht, the Netherlands, this month (August 2019). My poster and supplementary materials will be posted here soon.
+![isee-2019-poster](https://djxgonzalez.github.io/resources/201908_isee/isee_poster_thumb.png){:class="img-responsive" height="300px" width="210px .align-right"} I'm presenting a poster at to the annual meeting of the International Society for Environmental Epidemiology (ISEE) in Utrecht, The Netherlands, this month (August). View my **[poster](https://djxgonzalez.github.io/resources/201908_isee/isee_poster_final.png){:target="_blank"}** and **[supplementary materials](https://djxgonzalez.github.io/resources/201908_isee/supplementary_materials.html){:target="_blank"}**.
+
+### Bio
+
+I'm a doctoral candidate in the Emmett Interdisciplinary Program in Environment and Resources at Stanford University. I study environmental epidemiology with a focus on how pollution from extractive industries affects reproductive health and contributes to health disparities. I apply interdisciplinary methods from epidemiology, econometrics, and decision science, and conduct field work and population-level studies in California and Peru. I received a MS in epidemiology from the Stanford School of Medicine and a MESc in environmental science from the Yale School of Forestry and Environmental Studies. My work is supported by the Stanford Graduate Fellowship, the DARE Doctoral Fellowship, and the Ford Foundation Predoctoral Fellowship.
+
+
 
 [Academia.edu](http://stanford.academia.edu/DavidGonzalez){:target="_blank"} • [Google Scholar](https://scholar.google.com/citations?user=I_msswMAAAAJ&hl=en){:target="_blank"} • [ResearchGate](https://www.researchgate.net/profile/David_Gonzalez38){:target="_blank"} • [LinkedIn](https://www.linkedin.com/in/davidjxgonzalez){:target="_blank"}
