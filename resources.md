@@ -8,7 +8,7 @@ permalink: /resources/
 
 #### ISEE 2019
 
-![isee-2019-poster](https://djxgonzalez.github.io/resources/201908_isee/isee_poster_thumb.png){:class="img-responsive" height="300px" width="210px" .align-right} I'm presenting a poster at to the annual meeting of the International Society for Environmental Epidemiology (ISEE) in Utrecht, The Netherlands, this month (August). View my **[poster](https://djxgonzalez.github.io/resources/201908_isee/isee_poster_final.png){:target="_blank"}** and **[supplementary materials](https://djxgonzalez.github.io/resources/201908_isee/supplementary_materials.html){:target="_blank"}**.
+![isee-2019-poster](https://djxgonzalez.github.io/resources/201908_isee/isee_poster_thumb.png){: height="300px" width="210px" .align-right} I'm presenting a poster at to the annual meeting of the International Society for Environmental Epidemiology (ISEE) in Utrecht, The Netherlands, this month (August). View my **[poster](https://djxgonzalez.github.io/resources/201908_isee/isee_poster_final.png){:target="_blank"}** and **[supplementary materials](https://djxgonzalez.github.io/resources/201908_isee/supplementary_materials.html){:target="_blank"}**.
 
 ## R
 
