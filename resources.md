@@ -6,8 +6,8 @@ permalink: /resources/
 
 ## Presentations
 
-#### ISEE 2019
-**August 2019.** I'm presenting a poster at to the annual meeting of the International Society for Environmental Epidemiology (ISEE) in Utrecht, The Netherlands, this month (August). View my **[poster](https://djxgonzalez.github.io/resources/201908_isee/isee_poster_final.png){:target="_blank"}** and **[supplementary materials](https://djxgonzalez.github.io/resources/201908_isee/supplementary_materials.html){:target="_blank"}**.
+#### ISEE
+**August 2019.** I'm presenting a poster at to the annual meeting of the International Society for Environmental Epidemiology (ISEE) in Utrecht, The Netherlands. View my **[poster](https://djxgonzalez.github.io/resources/201908_isee/isee_poster_final.png){:target="_blank"}** and **[supplementary materials](https://djxgonzalez.github.io/resources/201908_isee/supplementary_materials.html){:target="_blank"}**.
 
 ## R
 
