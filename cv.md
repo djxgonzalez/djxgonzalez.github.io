@@ -19,6 +19,7 @@ PhD Candidate, Emmett Interdisciplinary Program in Environment and Resources
 
 ### Research Interests
 
-environmental health sciences; environmental epidemiology; social determinants of health; perinatal health; environmental science; health disparities; environmental justice; global health
+environmental epidemiology; perinatal epidemiology; applied econometrics; global health;social determinants of health; environmental science; environmental justice; health disparities
+
 
 #### [Full CV](https://djxgonzalez.github.io/cv.pdf){:target="_blank"}
