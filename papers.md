@@ -8,7 +8,7 @@ permalink: /papers/
 
 ### Published
 
-**Gonzalez, David J.X.**, Aubrey Arain, and Luis. E Fernandez. 2019 (in press). [Mercury exposure, risk factors, and perceptions among women of childbearing age in an artisanal gold mining region of the Peruvian Amazon](https://www.sciencedirect.com/science/article/pii/S0013935119305833?via%3Dihub){:target="_blank"}. *Environmental Research.*
+**Gonzalez, David J.X.**, Aubrey Arain, and Luis. E Fernandez. 2019. [Mercury exposure, risk factors, and perceptions among women of childbearing age in an artisanal gold mining region of the Peruvian Amazon](https://www.sciencedirect.com/science/article/pii/S0013935119305833?via%3Dihub){:target="_blank"}. *Environmental Research.*
 
 Marklein, Alison R., Joy B. Winbourne, Sara K. Enders, **David J.X. Gonzalez**, Tiff L. van Huysen, Jorge E. Izquierdo, Derrick R. Light, Daniel Liptzin, Kimberley E. Miller, Scott L. Morford, Robert A. Norton, and Benjamin Z. Houlton. 2015. [Mineralization ratios of nitrogen and phosphorous from decomposing litter in temperate versus tropical forests](https://onlinelibrary.wiley.com/doi/full/10.1111/geb.12414){:target="_blank"}. *Global Ecology and Biogeography.*
 
