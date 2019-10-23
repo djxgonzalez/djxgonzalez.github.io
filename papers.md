@@ -4,6 +4,8 @@ title: Papers
 permalink: /papers/
 ---
 
+This page includes my publications, both scholarly papers and articles for general audiences. The scholarly papers are behind a paywall, if you'd like to read one and don't have access please send me an email. For more context on my research projects and summaries of the results, visit the **Research** page.
+
 ## Refereed Journal Articles
 
 ### Published
