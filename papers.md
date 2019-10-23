@@ -18,9 +18,9 @@ Farrer, Emily C., Isabel W. Ashton, Marko J. Spasojevic, Shiyang Fu, **David J.X
 
 ### Under Review
 
-### In Preparation
-
 **Gonzalez, David J.X.**, Allison R. Sherris, Wei Yang, David K. Stevenson, Amy M. Padula, Michael Baiocchi, Marshall Burke, Mark R. Cullen, and Gary M. Shaw. Oil and gas drilling and risk of spontaneous preterm birth in the San Joaquin Valley, California: A case-control study.
+
+### In Preparation
 
 **Gonzalez, David J.X.**, Jesus Oliviero-Verbal, Karina Caballero Gallardo, Katy Ashe, Julio Araujo, Chris Field, and Luis E. Fernandez. Disparities in mercury exposure among vulnerable subpopulations of Madre de Dios, Peru.
 
