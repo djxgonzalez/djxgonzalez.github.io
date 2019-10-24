@@ -4,4 +4,14 @@ title: Research
 permalink: /research/
 ---
 
-Context and summaries for each of my research projects. [I haven't finished this page yet, updated 10/23/2019]
+Context and summaries for each of my research projects.
+
+## Oil Drilling and Adverse Birth Outcomes in California, USA
+
+
+
+## Wildfire Smoke Risk Perceptions and Adaptation in California
+
+
+
+## Mercury Exposure in Madre de Dios, Peru
