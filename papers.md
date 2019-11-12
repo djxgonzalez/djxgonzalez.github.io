@@ -22,7 +22,7 @@ Farrer, Emily C., Isabel W. Ashton, Marko J. Spasojevic, Shiyang Fu, **David J.X
 
 ### In Preparation
 
-**Gonzalez, David J.X.**, Jesus Oliviero-Verbal, Karina Caballero Gallardo, Katy Ashe, Julio Araujo, Chris Field, and Luis E. Fernandez. Disparities in mercury exposure among vulnerable subpopulations of Madre de Dios, Peru.
+**Gonzalez, David J.X.**, Jesus Oliviero-Verbal, Karina Caballero Gallardo, Katy Ashe, Julio Araujo, Chris Field, and Luis E. Fernandez. Intersectional disparities in mercury exposure among subpopulations of concern in Madre de Dios, Peru.
 
 ## Other Publications
 
