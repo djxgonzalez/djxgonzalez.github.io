@@ -8,7 +8,7 @@ Context and summaries for each of my research projects.
 
 ### Oil Drilling and Adverse Birth Outcomes in California, USA
 
-
+**ISEE**, August 2019. I presented a poster at the annual meeting of the [International Society for Environmental Epidemiology](https://isee2019.org/){:target="_blank"} (ISEE) in Utrecht, The Netherlands. View my **[poster](https://djxgonzalez.github.io/resources/201908_isee/isee_poster_final.png){:target="_blank"}** and **[supplementary materials](https://djxgonzalez.github.io/resources/201908_isee/supplementary_materials.html){:target="_blank"}**.
 
 ### Wildfire Smoke Risk Perceptions and Adaptation in California
 
