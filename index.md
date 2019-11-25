@@ -6,7 +6,7 @@
 
 layout: page
 title: About
-order: 1
+nav_order: 1
 ---
 <img src="/images/profile_photo.jpg" alt="" align="left" width="225" height="300" style="padding: 10px;">
 I'm a doctoral candidate in the Emmett Interdisciplinary Program in Environment and Resources at Stanford University. I study environmental health sciences with a focus on how pollution from extractive industries affects reproductive health and contributes to health disparities. I apply interdisciplinary methods from epidemiology, econometrics, and decision science, and conduct field work and population-level studies in California and Peru. I received a MS in epidemiology from the Stanford School of Medicine and a MESc in environmental science from the Yale School of Forestry and Environmental Studies. My work is supported by the Stanford Graduate Fellowship, the DARE Doctoral Fellowship, and the Ford Foundation Predoctoral Fellowship.
