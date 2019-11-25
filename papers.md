@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Papers
+order: 3
 permalink: /papers/
 ---
 
