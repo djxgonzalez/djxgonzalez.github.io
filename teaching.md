@@ -4,7 +4,7 @@ title: Teaching
 permalink: /teaching/
 ---
 
-## Courses
+## Lead Instructor
 
 ### Shades of Green: Redesigning the Environmental Justice Movemeents
 
