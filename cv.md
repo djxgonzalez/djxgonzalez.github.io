@@ -5,6 +5,9 @@ nav_order: 5
 permalink: /cv/
 ---
 
+
+<object data = "https://djxgonzalez.github.io/cv.pdf" width="1000" height="1000" type='application/pdf'/>
+
 ## David J.X. Gonzalez
 
 PhD Candidate, Emmett Interdisciplinary Program in Environment and Resources
