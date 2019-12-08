@@ -5,9 +5,9 @@ nav_order: 4
 permalink: /teaching/
 ---
 
-Intro paragraph
+My work as an educator includes designing and leading
 
-### Lead Instructor
+### Instructor of Record
 
 **URBANST 125: Shades of Green, Redesigning the Environmental Justice Movements**, Stanford University
 

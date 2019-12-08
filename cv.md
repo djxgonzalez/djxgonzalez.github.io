@@ -6,7 +6,7 @@ permalink: /cv/
 ---
 
 
-<object data = "https://djxgonzalez.github.io/cv.pdf" width="1000" height="1000" type='application/pdf'/>
+<object data = "cv.pdf" width = "1000" height = "1000" type = 'application/pdf'/>
 
 ## David J.X. Gonzalez
 
