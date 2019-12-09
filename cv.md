@@ -16,7 +16,7 @@ ORCID: 0000-0003-4457-0964
 
 ### Education
 
-PhD, Stanford University, Emmett Interdisciplinary Program in Environment and Resources, *expected 2020*
+PhD, Stanford University, Environment and Resources, *expected 2020*
 
 MS Stanford University, Epidemiology, Global Health Concentration, 2018
 
