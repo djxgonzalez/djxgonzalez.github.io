@@ -5,7 +5,7 @@ nav_order: 4
 permalink: /teaching/
 ---
 
-My teaching covers a range of topics, including environmental science, environmental equity, public health, geospatial methods, and how to achieve academic success. I and facilitate community-community learning with environmental organizations throughout Northern California.
+My teaching covers a range of topics, including environmental science, environmental equity, public health, geospatial methods, and how to achieve academic success.
 
 ### Instructor of Record
 
