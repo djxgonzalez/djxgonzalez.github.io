@@ -18,11 +18,11 @@ ORCID: 0000-0003-4457-0964
 
 PhD, Stanford University, Environment and Resources, *expected 2020*
 
-MS Stanford University, Epidemiology, Global Health Concentration, 2018
+MS, Stanford University, Epidemiology, Global Health Concentration, 2018
 
 MESc, Yale University, Environmental Science, Global Health Concentration, 2015
 
-BS University of California at Davis, Evolution and Ecology (Honors), 2011
+BS, University of California at Davis, Evolution and Ecology (Honors), 2011
 
 ### Fellowships
 
@@ -43,4 +43,4 @@ Regents Scholarship, University of California at Davis, 2007
 environmental epidemiology; perinatal epidemiology; global health; applied econometrics; social determinants of health; environmental science; environmental justice; health disparities
 
 
-#### [Full CV](https://djxgonzalez.github.io/cv.pdf){:target="_blank"}
+### [Full CV](https://djxgonzalez.github.io/cv.pdf){:target="blank"}
