@@ -5,7 +5,7 @@ nav_order: 4
 permalink: /teaching/
 ---
 
-I teach courses on environmental equity and academic career. I use the design thinking framework to connect students with community-based projects. I also lead workshops on geospatial analysis.
+My teaching covers a range of topics, including environmental science, environmental equity, public health, geospatial analysis, and how to achieve academic success. I teaching design thinking and facilitate community-community learning with environmental organizations throughout Northern California.
 
 ### Instructor of Record
 
