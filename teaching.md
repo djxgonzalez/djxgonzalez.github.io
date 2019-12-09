@@ -5,13 +5,13 @@ nav_order: 4
 permalink: /teaching/
 ---
 
-My teaching covers a range of topics, including environmental science, environmental equity, public health, geospatial analysis, and how to achieve academic success. I teaching design thinking and facilitate community-community learning with environmental organizations throughout Northern California.
+My teaching covers a range of topics, including environmental science, environmental equity, public health, geospatial methods, and how to achieve academic success. I and facilitate community-community learning with environmental organizations throughout Northern California.
 
 ### Instructor of Record
 
 **Urban Studies 125: Shades of Green, Redesigning the Environmental Justice Movements**, Stanford University
 
-Historically, discussions of diversity, equity, and inclusion in the environment have been excluded from mainstream environmental organizations. relegated to the environmental justice movement, which often focuses on urban environmental degradation and remains separated from other environmental movements. This course will seek to break out of this limiting discussion. We will explore access to outdoor spaces, definitions of wilderness, who is and isn't included in environmental organizations, gender and the outdoors, how colonialism has influenced ways of knowing, and the future of climate change. The course will also have a design thinking community partnership project. Students work with partner organizations to problem-solve around issues of diversity, equity, and inclusion. [Here](https://stanford.maps.arcgis.com/apps/Cascade/index.html?appid=28a64c14a35140c08f33ee0e7e07f136){:target="blank"} is an example of student output. *5-unit course, Winter 2019, 14 undergraduate and graduate students*
+Historically, discussions of indigeneity, income, gender, and race in the environment have been relegated the catchall field of environmental justice. In this course, we break out of these limitations and engage directly with community-based organizations working to advance diversity, equity, and inclusion in the outdoors. Each week we discuss the environmental justice movements, defined broadly, and cover topics such as definitions of wilderness, representation in environmental organizations, colonialism's influence on ways of knowing, and the future of climate justice. In the community-engaged component of the course, we use human-centered design thinking to identify a problem space and iterate on possible solutions. Our community partners include diverse non-profit organizations and public agencies in the San Francisco Bay Area and the Central Valley. I have co-designed and co-instructed this course with a doctoral student from the Stanford Graduate School of Education each of the past three years. We have consistently received [positive feedback](teaching/resources/urbanst125_feedback_w19.pdf){:target="blank"} and course enrollment has grown each year. You can view an example of student work [here](https://stanford.maps.arcgis.com/apps/Cascade/index.html?appid=28a64c14a35140c08f33ee0e7e07f136){:target="blank"}. *5-unit course*
 
 **Undergraduate Advising and Research 56: Building a Successful Academic Career**, Stanford University
 
@@ -21,8 +21,8 @@ I convene biweekly meetings to teach students in the Frosh Scholars Program abou
 
 **How to Make Publication-Quality Maps with R**, 11.2019.
 
-A step-by-step walkthrough of how to make maps for scientific publications, including a workable example. View the [lesson](teaching/workshops/publication_quality_maps_R.html) and accompanying [slides](teaching/workshops/publication_quality_maps_R_slides.html). Download the data for this workshop [here](https://github.com/djxgonzalez/workshop-publication-quality-maps-R/tree/master).
+A step-by-step walkthrough of how to make maps for scientific publications, including a workable example. View the [lesson](teaching/workshops/publication_quality_maps_R.html){:target="blank"} and accompanying [slides](teaching/workshops/publication_quality_maps_R_slides.html){:target="blank"}, download [data](https://github.com/djxgonzalez/workshop-publication-quality-maps-R/tree/master){:target="blank"} for the example.
 
 **Introduction to Spatial Analysis in R**, 5.2019.
 
-A brief introductory lesson on using the 'sf' package in R. View the GitHub [repo](https://github.com/djxgonzalez/spatial-analysis-r){:target="_blank"} with resources for this lesson.
+A brief introduction to the spatial features (sf) package in R, a powerful set of tools for geospatial analyses with vector data (points, lines, and polygons). View [resources](https://github.com/djxgonzalez/spatial-analysis-r){:target="blank"} for this lesson.
