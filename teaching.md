@@ -17,7 +17,7 @@ Historically, discussions of indigeneity, income, gender, and race in the enviro
 
 I convene biweekly meetings to teach students in the Frosh Scholars Program about opportunities and resources available across the university. *1-unit course, taught each fall and winter form 2017-2019, approximately 30 students per quarter*
 
-### Workshop
+### Workshops
 
 **How to Make Publication-Quality Maps with R**
 
@@ -25,4 +25,4 @@ A step-by-step walkthrough of how to make maps for scientific publications, incl
 
 **Introduction to Spatial Analysis in R**
 
-A brief introduction to the spatial features (sf) package in R, a powerful set of tools for geospatial analyses with vector data (points, lines, and polygons). View [resources](https://github.com/djxgonzalez/spatial-analysis-r){:target="blank"} for this lesson.
+An introduction to the spatial features (sf) package in R, a powerful set of tools for geospatial analyses with vector data (points, lines, and polygons). View [resources](https://github.com/djxgonzalez/spatial-analysis-r){:target="blank"} for this lesson.
