@@ -6,6 +6,8 @@ permalink: /teaching/
 ---
 
 My work as an educator includes designing and leading
+Community-engaged teaching
+Design thinking.
 
 ### Instructor of Record
 
