@@ -1,9 +1,11 @@
 ---
 layout: page
-title: Papers
+title: Publications
 nav_order: 3
-permalink: /papers/
+permalink: /publications/
 ---
+
+## Peer-Reviewed
 
 **Gonzalez, David J.X.**, Aubrey Arain, and Luis E. Fernandez. 2019. [Mercury exposure, risk factors, and perceptions among women of childbearing age in an artisanal gold mining region of the Peruvian Amazon](https://www.sciencedirect.com/science/article/pii/S0013935119305833?via%3Dihub){:target="blank"}. *Environmental Research.*
 
@@ -18,7 +20,7 @@ Farrer, Emily C., Isabel W. Ashton, Marko J. Spasojevic, Shiyang Fu, **David J.X
 **Gonzalez, David J.X.**, Jesus Oliviero-Verbal, Karina Caballero Gallardo, Katy Ashe, Julio Araujo, Chris Field, and Luis E. Fernandez. Intersectional disparities in mercury exposure among subpopulations of concern in Madre de Dios, Peru.
 
 
-## Other Publications
+## Other
 
 **[Treaty Does Not Stop Illicit Mercury Trade in South America](https://yaleglobal.yale.edu/content/treaty-does-not-stop-illicit-mercury-trade-south-america){:target="blank"}**, *YaleGlobal*, 2/2018
 
