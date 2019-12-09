@@ -5,7 +5,6 @@ nav_order: 5
 permalink: /cv/
 ---
 
-
 ## David J.X. Gonzalez
 
 PhD Candidate
@@ -17,13 +16,13 @@ ORCID: 0000-0003-4457-0964
 
 ### Education
 
-**PhD** Stanford University, Emmett Interdisciplinary Program in Environment and Resources, *2021*
+**PhD**, Stanford University, Emmett Interdisciplinary Program in Environment and Resources, *2021*
 
-**MS** Stanford University, Epidemiology, Global Health Concentration, 2018
+**MS**, Stanford University, Epidemiology, Global Health Concentration, 2018
 
-**MESc** Yale University, Environmental Science, Global Health Concentration, 2015
+**MESc**, Yale University, Environmental Science, Global Health Concentration, 2015
 
-**BS** University of California at Davis, Evolution and Ecology (Honors), 2011
+**BS**, University of California at Davis, Evolution and Ecology (Honors), 2011
 
 ### Fellowships
 
