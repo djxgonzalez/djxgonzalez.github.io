@@ -19,10 +19,10 @@ I convene biweekly meetings to teach students in the Frosh Scholars Program abou
 
 ### Workshop
 
-**How to Make Publication-Quality Maps with R**, 11.2019.
+**How to Make Publication-Quality Maps with R**, November 2019
 
-A step-by-step walkthrough of how to make maps for scientific publications, including a workable example. View the [lesson](teaching/workshops/publication_quality_maps_R.html){:target="blank"} and accompanying [slides](teaching/workshops/publication_quality_maps_R_slides.html){:target="blank"}, download [data](https://github.com/djxgonzalez/workshop-publication-quality-maps-R/tree/master){:target="blank"} for the example.
+A step-by-step walkthrough of how to make maps for scientific publications, including a workable example. View the [lesson](teaching/workshops/publication_quality_maps_R.html){:target="blank"} and accompanying [slides](teaching/workshops/publication_quality_maps_R_slides.html){:target="blank"}, and download [data](https://github.com/djxgonzalez/workshop-publication-quality-maps-R/tree/master){:target="blank"} for the example.
 
-**Introduction to Spatial Analysis in R**, 5.2019.
+**Introduction to Spatial Analysis in R**, May 2019
 
 A brief introduction to the spatial features (sf) package in R, a powerful set of tools for geospatial analyses with vector data (points, lines, and polygons). View [resources](https://github.com/djxgonzalez/spatial-analysis-r){:target="blank"} for this lesson.
