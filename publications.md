@@ -22,14 +22,14 @@ Farrer, Emily C., Isabel W. Ashton, Marko J. Spasojevic, Shiyang Fu, **David J.X
 
 ### Other
 
-**[Treaty Does Not Stop Illicit Mercury Trade in South America](https://yaleglobal.yale.edu/content/treaty-does-not-stop-illicit-mercury-trade-south-america){:target="blank"}**, *YaleGlobal*, 2/2018
+[Treaty Does Not Stop Illicit Mercury Trade in South America](https://yaleglobal.yale.edu/content/treaty-does-not-stop-illicit-mercury-trade-south-america){:target="blank"}, *YaleGlobal*, 2/2018
 
-**[Opportunities, Not Oppression, to Stop Illegal Mining in the Peruvian Amazon](https://yaleglobal.yale.edu/content/opportunities-not-oppression-stop-illegal-mining-peruvian-amazon){:target="blank"}**, *YaleGlobal*, 2/2016
+[Opportunities, Not Oppression, to Stop Illegal Mining in the Peruvian Amazon](https://yaleglobal.yale.edu/content/opportunities-not-oppression-stop-illegal-mining-peruvian-amazon){:target="blank"}, *YaleGlobal*, 2/2016
 
-**[How Scientific Activism Helped Bring Flint’s Lead Crisis to Light](http://www.activistlab.org/2016/02/how-scientific-activism-helped-bring-flints-lead-crisis-to-light/){:target="blank"}**, *ActivistLab*, 2/2016
+[How Scientific Activism Helped Bring Flint’s Lead Crisis to Light](http://www.activistlab.org/2016/02/how-scientific-activism-helped-bring-flints-lead-crisis-to-light/){:target="blank"}, *ActivistLab*, 2/2016
 
-**[Fear in the time of Ebola](https://yaledailynews.com/blog/2015/12/09/gonzalez-roth-fear-in-the-time-of-ebola/){:target="blank"}**, *Yale Daily News*, 12/2015
+[Fear in the time of Ebola](https://yaledailynews.com/blog/2015/12/09/gonzalez-roth-fear-in-the-time-of-ebola/){:target="blank"}, *Yale Daily News*, 12/2015
 
-**[Fear, Politics, and Ebola: How Quarantines Hurt the Fight Against Ebola and Violate the Constitution](https://law.yale.edu/system/files/area/center/ghjp/documents/ghjp_ebola_quarantines.pdf){:target="blank"}**, report from the American Civil Liberties Union and the Yale Global Health Justice Program, 12/2015
+[Fear, Politics, and Ebola: How Quarantines Hurt the Fight Against Ebola and Violate the Constitution](https://law.yale.edu/system/files/area/center/ghjp/documents/ghjp_ebola_quarantines.pdf){:target="blank"}, report from the American Civil Liberties Union and the Yale Global Health Justice Program, 12/2015
 
-**[Wind, Bile, and Phlegm](http://www.sagemagazine.org/wind-bile-and-phlegm/){:target="blank"}**, *Sage Magazine*, 3/2014
+[Wind, Bile, and Phlegm](http://www.sagemagazine.org/wind-bile-and-phlegm/){:target="blank"}, *Sage Magazine*, 3/2014
