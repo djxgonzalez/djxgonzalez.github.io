@@ -17,12 +17,6 @@ My teaching covers a range of topics, including environmental science, environme
 
 This seminar is the teaching component of the [Frosh Scholars Program](https://elcentro.stanford.edu/programs/academic-programs/frosh-scholars-program){:target="blank"}, which provides mentorship, community-building activities, and academic resources to Latinx-identified first-year students. As coordinator of the Frosh Scholars Program, I convene speakers from across the Stanford campus to share skills, resources, and opportunities with the Frosh Scholars. I have led this course every fall and winter quarter since 2017, with an average enrollment of 20 students per quarter. *1-unit course*
 
-### Journal Club
-
-**Environmental Equity Journal Club**, Stanford University
-
-I founded the Environmental Equity Journal Club in Fall 2019 to create a space for Stanford students and trainees to discuss recent studies focusing on environmental justice, defined broadly to include studies of access, representation, health, and policy. The group meets monthly
-
 ### Workshops
 
 **How to Make Publication-Quality Maps with R**
@@ -32,6 +26,12 @@ A step-by-step walkthrough of how to make maps for scientific publications, incl
 **Introduction to Spatial Analysis in R**
 
 An introduction to the spatial features (sf) package in R, a powerful set of tools for geospatial analyses with vector data (points, lines, and polygons). View [resources](https://github.com/djxgonzalez/spatial-analysis-r){:target="blank"} for this lesson.
+
+### Journal Club
+
+**Environmental Equity Journal Club**, Stanford University
+
+I founded the Environmental Equity Journal Club in Fall 2019 to create a space for Stanford students and trainees to discuss recent studies focusing on environmental justice, defined broadly to include studies of access, representation, health, and policy. The group meets monthly
 
 ### Teaching Assistantships
 
