@@ -25,6 +25,8 @@ In another line of research, I'm investigating mercury exposure in the Peruvian 
 
 ### Other Projects
 
+I'm currently collaborating with the [Wong-Parodi lab](https://earth.stanford.edu/people/gabrielle-wong-parodi){:target="blank"} to investigate how California residents perceive of wildfire smoke risks and adapt to smoke exposure.
+
 As a Fox International Fellow at El Colegio de México, I investigated how an apparent black market in Latin America is subverting global efforts to control mercury trade. I wrote about my findings in a **[article](https://yaleglobal.yale.edu/content/treaty-does-not-stop-illicit-mercury-trade-south-america){:target="blank"}** in YaleGlobal.
 
 As a master's student, I worked with the Yale Global Health Justice Project and American Civil Liberties Union to investigate quarantine policies in the U.S. during the 2015 Ebola outbreak in West Africa. In a **[report](https://law.yale.edu/system/files/area/center/ghjp/documents/ghjp_ebola_quarantines.pdf){:target="blank"}**, we documented how these policies violated the constitution and impeded the ability of global health organizations to respond. This work was covered by the [New York Times](https://www.nytimes.com/2015/12/03/health/ebola-crisis-passes-but-questions-on-quarantines-persist.html){:target="blank"}.
