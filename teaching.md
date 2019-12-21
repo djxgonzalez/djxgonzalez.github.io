@@ -35,29 +35,29 @@ An introduction to the spatial features (sf) package in R, a powerful set of too
 
 ### Teaching Assistantships
 
-**Graduate School Preparation: The Rhetoric of Research**, Summer 2019
-<br />Summer Undergraduate Research in Geoscience and Engineering, (SURRGE) Stanford University
+**Graduate School Preparation: The Rhetoric of Research**
+<br />Summer Undergraduate Research in Geoscience and Engineering (SURGE), Stanford University
 
 -	Planned and led weekly lessons focused on preparing for graduate school and communicating results from students’ independent research projects
--	Not for credit, 4 undergraduate students
+-	Not for credit, 8-week course, 4 undergraduate students
 
-**EDUC 332: Theory and Practice of Environmental Education**, Spring 2018
+**EDUC 332: Theory and Practice of Environmental Education**
 <br />School of Education, Stanford University
 
-•	Served as liaison between community partner and student group in a project-based community engaged learning course
-•	Facilitated in-class discussions among students
-•	5-unit course, 12 students
+-	Served as liaison between community partner and student group in a project-based community engaged learning course
+-	Facilitated in-class discussions among students
+- 5-unit course, 12 students
 
-**URBANST 125: Shades of Green: Redesigning and Rethinking the Environmental Justice Movements**, Winter 2018
+**URBANST 125: Shades of Green: Redesigning and Rethinking the Environmental Justice Movements**
 <br />Urban Studies Program, Stanford University
 
--	Served as liaison between community partner and student group in a project-based community engaged learning course
+-	Served as liaison between the Leadership Counsel for Justice and Accountability, our community partner, and student group in a project-based community engaged learning course
 -	Planned and facilitated a class session on environmental health science
 -	5-unit course, 18 undergraduate and master’s students
 
-**Urban Ecosystem Analysis**, Summer 2015
+**Urban Ecosystem Analysis**
 <br />School of Forestry & Environmental Studies, Yale University
 
 - Assisted with introductory field- and classroom-based learning
 -	Designed and facilitated introductory workshop on geospatial analyses
--	3-week short-course, 140 master’s students
+-	Not for credit, 3-week short course, 140 master’s students
