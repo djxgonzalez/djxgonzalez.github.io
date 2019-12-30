@@ -13,7 +13,7 @@ Marklein, Alison R., Joy B. Winbourne, Sara K. Enders, **David J.X. Gonzalez**, 
 
 Farrer, Emily C., Isabel W. Ashton, Marko J. Spasojevic, Shiyang Fu, **David J.X. Gonzalez**, and Katharine N. Suding. 2015. [Indirect effects of global change accumulate to alter plant diversity but not ecosystem function in alpine tundra](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/1365-2745.12363){:target="blank"}. *Journal of Ecology.*
 
-#### Under Review
+### Under Review
 
 **Gonzalez, David J.X.**, Allison R. Sherris, Wei Yang, David K. Stevenson, Amy M. Padula, Michael Baiocchi, Marshall Burke, Mark R. Cullen, and Gary M. Shaw. Oil and gas drilling and risk of spontaneous preterm birth in the San Joaquin Valley, California: A case-control study.
 
