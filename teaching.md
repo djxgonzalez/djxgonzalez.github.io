@@ -31,7 +31,7 @@ An introduction to the spatial features (sf) package in R, a powerful set of too
 
 **Environmental Equity Journal Club**, Stanford University
 
-I founded the Environmental Equity Journal Club in Fall 2019 to create a space for Stanford students and trainees to discuss recent studies focusing on environmental justice, defined broadly to include studies of access, representation, health, and policy. The group meets monthly
+I started the Environmental Equity Journal Club in Fall 2019 to create a space for the Stanford community to discuss recent studies focusing on environmental justice, defined broadly to include studies of access, representation, health, and policy. The group meets monthly. If you're interested in joining, send me an email.
 
 ### Teaching Assistantships
 
