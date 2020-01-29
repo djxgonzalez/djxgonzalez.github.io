@@ -46,7 +46,7 @@ I started the Environmental Equity Journal Club in Fall 2019 to create a space f
 
 -	Served as liaison between community partner and student group in a project-based community engaged learning course
 -	Facilitated in-class discussions among students
-- 5-unit course, 12 students
+- 5-unit course, 12 undergraduate and master's students
 
 **URBANST 125: Shades of Green: Redesigning and Rethinking the Environmental Justice Movements**
 <br />Urban Studies Program, Stanford University
