@@ -12,8 +12,3 @@ nav_order: 1
 <img src="/images/profile_photo.jpg" alt="" align="left" width="225" height="300" style="padding: 10px;">
 
 I’m a doctoral candidate in the Emmett Interdisciplinary Program in Environment and Resources at Stanford University. I study environmental health sciences with a focus on reproductive health, health disparities, and exposures to extractive industries. My research applies interdisciplinary methods from epidemiology, econometrics, and environmental science, and I conduct field work and population-level studies in California and Peru. I teach geospatial methods, environmental science, environmental justice, and academic skills for undergraduates. I serve in several capacities to promote equity and inclusion in the sciences. I received a MS in epidemiology from the Stanford School of Medicine, a MESc in environmental science from the Yale School of the Environment, and a BS in ecology and evolutionary biology from the University of California at Davis. My work is supported by the Stanford Graduate Fellowship (SGF), the Diversifying Academic, Recruiting Excellence (DARE) Doctoral Fellowship, and the Ford Foundation Predoctoral Fellowship.
-
-
-**[Academia.edu](http://stanford.academia.edu/DavidGonzalez){:target="blank"}
-• [Google Scholar](https://scholar.google.com citations?user=I_msswMAAAAJ&hl=en){:target="blank"}
-• [LinkedIn](https://www.linkedin.com/in/davidjxgonzalez){:target="blank"} • [ResearchGate](https://www.researchgate.net/profile/David_Gonzalez38){:target="blank"}**
