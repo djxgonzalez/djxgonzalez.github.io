@@ -5,7 +5,7 @@ nav_order: 2
 permalink: /research/
 ---
 
-I study how pollution from extractive industries affects reproductive health and contributes to health disparities. I apply interdisciplinary methods from epidemiology, econometrics, and environmental science, and conduct field work and population-level studies in California and Peru. My work has been featured in NPR, Al Jazeera, and the New York Times.
+I study how pollution from extractive industries affects reproductive health and contributes to health disparities. I apply interdisciplinary methods from epidemiology, econometrics, and environmental sciences, and conduct field work and population-level studies in California and Peru. My work has been featured in NPR, Al Jazeera, and the New York Times.
 
 ### Oil and gas in California
 
