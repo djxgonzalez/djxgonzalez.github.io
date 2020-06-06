@@ -1,13 +1,13 @@
 ---
 layout: page
 title: Publications
-nav_order: 3
+nav_order: 2
 permalink: /publications/
 ---
 
 ### Peer-Reviewed
 
-**Gonzalez, David J.X.**, Allison R. Sherris, Wei Yang, David K. Stevenson, Amy M. Padula, Michael Baiocchi, Marshall Burke, Mark R. Cullen, and Gary M. Shaw (2020). Oil and gas drilling and risk of spontaneous preterm birth in the San Joaquin Valley, California: A case-control study. *Environmental Epidemiology.* ([Paper](https://journals.lww.com/environepidem/Fulltext/2020/08000/Oil_and_gas_production_and_spontaneous_preterm.1.aspx?context=LatestArticles){:target="blank"})
+**Gonzalez, David J.X.**, Allison R. Sherris, Wei Yang, David K. Stevenson, Amy M. Padula, Michael Baiocchi, Marshall Burke, Mark R. Cullen, and Gary M. Shaw (2020). Oil and gas production and spontaneous preterm birth in the San Joaquin Valley, CA: A case-control study. *Environmental Epidemiology.* ([Paper](https://journals.lww.com/environepidem/Fulltext/2020/08000/Oil_and_gas_production_and_spontaneous_preterm.1.aspx?context=LatestArticles){:target="blank"})
 
 **Gonzalez, David J.X.**, Aubrey Arain, and Luis E. Fernandez (2019). Mercury exposure, risk factors, and perceptions among women of childbearing age in an artisanal gold mining region of the Peruvian Amazon. *Environmental Research.* ([Paper](https://www.sciencedirect.com/science/article/pii/S0013935119305833?via%3Dihub){:target="blank"})
 
